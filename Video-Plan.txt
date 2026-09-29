@@ -1,0 +1,118 @@
+Class 10 Physics, Ch. 10: Human Eye & The Colourful World · about 45 sec · 3D animated, vertical 9:16
+
+
+
+#
+
+Time
+
+Voiceover (Hinglish)
+
+Visuals
+
+On-screen text
+
+1
+
+0–4s
+
+"Taare ki light trillions of kilometre khaali space mein bilkul seedhi travel karti hai, koi rukawat nahi."
+
+Deep space. A glowing white star shoots out a thin, perfectly straight golden light beam. The camera rides alongside it at high speed.
+
+—
+
+2
+
+4–9s
+
+"Par jaise hi wo Earth ke atmosphere mein ghusti hai, poori kahani badal jaati hai."
+
+Earth grows huge in frame. The beam hits the blue atmosphere edge with a soft "whoosh" and the camera follows it inside.
+
+ATMOSPHERE 🌍
+
+3
+
+9–15s
+
+"Yahan hawa ki layers hain, kuch garam, kuch thandi. Garam hawa kam dense, thandi hawa zyada dense. Matlab har layer ka refractive index alag."
+
+X-ray/cross-section view: the atmosphere splits into stacked wavy bands, red-orange (hot) and blue (cold). Small labels pop up: "Less dense" / "More dense".
+
+Refractive index ≠ same
+
+4
+
+15–21s
+
+"Toh light har layer pe thoda thoda mudti jaati hai, aur zig-zag raaste se neeche aati hai."
+
+The golden beam bends slightly at every band boundary, drawing a zig-zag path. Each bend flashes a tiny glowing "normal" line.
+
+Refraction ↘↙↘
+
+5
+
+21–27s
+
+"Aur ye layers ek jagah rukti nahi. Hawa lagataar hilti rehti hai, toh light ka raasta bhi har second badalta rehta hai."
+
+The bands start wobbling like jelly or a heat haze. The zig-zag beam keeps shifting its path left and right in real time.
+
+Hawa = always moving 💨
+
+6
+
+27–33s
+
+"Kabhi zyada light tumhari aankh mein aati hai, taara bright. Kabhi light side mein mud jaati hai, taara dim. Bright, dim, bright, dim."
+
+A big 3D eye on the ground at night. The beam alternates between hitting the pupil dead-on (star flares bright) and missing it slightly (star fades). Rhythmic flicker synced to "bright, dim".
+
+BRIGHT ⭐ / dim ·
+
+7
+
+33–37s
+
+"Aur taara itna door hai ki wo bas ek chhota sa point dikhta hai, toh ye chhoti si hil-dul bhi saaf pakdi jaati hai."
+
+Zoom out to a night sky. One tiny star dot jitters in position and brightness. A circle highlight appears around it.
+
+Point source = zyada twinkle
+
+8
+
+37–41s
+
+"Isi ko kehte hain twinkling, aur iska reason hai atmospheric refraction."
+
+The whole path (star to layers to eye) freezes as a clean diagram. The title term stamps onto the screen with a "board exam" style highlight.
+
+📌 ATMOSPHERIC REFRACTION
+
+9
+
+41–45s
+
+"Matlab taara twinkle karta hi nahi. Space mein jaake dekho, wo ekdum steady hai. Twinkle toh humari hawa karwa rahi hai."
+
+Cut to a 3D astronaut at the ISS window: the same star sits perfectly still. Quick cut back down through the atmosphere, where the star starts flickering again. The atmosphere glows red with a cheeky "culprit" arrow.
+
+Asli culprit: HAWA 😏
+
+
+
+Full VO (for recording, about 150 words):
+
+"Taare ki light trillions of kilometre khaali space mein bilkul seedhi travel karti hai, koi rukawat nahi. Par jaise hi wo Earth ke atmosphere mein ghusti hai, poori kahani badal jaati hai. Yahan hawa ki layers hain, kuch garam, kuch thandi. Garam hawa kam dense, thandi hawa zyada dense. Matlab har layer ka refractive index alag. Toh light har layer pe thoda thoda mudti jaati hai, aur zig-zag raaste se neeche aati hai. Aur ye layers ek jagah rukti nahi. Hawa lagataar hilti rehti hai, toh light ka raasta bhi har second badalta rehta hai. Kabhi zyada light tumhari aankh mein aati hai, taara bright. Kabhi light side mein mud jaati hai, taara dim. Bright, dim, bright, dim. Aur taara itna door hai ki wo bas ek chhota sa point dikhta hai, toh ye chhoti si hil-dul bhi saaf pakdi jaati hai. Isi ko kehte hain twinkling, aur iska reason hai atmospheric refraction. Matlab taara twinkle karta hi nahi. Space mein jaake dekho, wo ekdum steady hai. Twinkle toh humari hawa karwa rahi hai."
+
+
+
+Production notes:
+
+Look: Dark navy night palette. Starlight is always golden and hot/cold layers are always red vs blue, so students connect color with density without needing to read anything.
+Audio: Soft ambient space hum at the start, a whoosh at the atmosphere entry, a subtle "ting" on every bright flicker in shot 6, and a bass drop on the "ATMOSPHERIC REFRACTION" stamp.
+Captions: Burned-in Hinglish subtitles throughout. Put NCERT terms (atmosphere, refractive index, point, twinkling, atmospheric refraction) in bold yellow so they stick for exams.
+Loop trick: The last frame (the flickering star) matches the first frame (a star in space), so the Short loops seamlessly and rewatches go up.
